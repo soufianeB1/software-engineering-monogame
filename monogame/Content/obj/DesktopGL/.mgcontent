@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/souf_/source/repos/monogame/monogame/Content/1.png</File>
+    <File>C:/Users/souf_/source/repos/monogame/monogame/Content/2.png</File>
+    <File>C:/Users/souf_/source/repos/monogame/monogame/Content/3.png</File>
+    <File>C:/Users/souf_/source/repos/monogame/monogame/Content/4.png</File>
+    <File>C:/Users/souf_/source/repos/monogame/monogame/Content/Attack.png</File>
+    <File>C:/Users/souf_/source/repos/monogame/monogame/Content/Dead.png</File>
+    <File>C:/Users/souf_/source/repos/monogame/monogame/Content/Hurt.png</File>
+    <File>C:/Users/souf_/source/repos/monogame/monogame/Content/Idle.png</File>
+    <File>C:/Users/souf_/source/repos/monogame/monogame/Content/level1-button.png</File>
+    <File>C:/Users/souf_/source/repos/monogame/monogame/Content/level2-button.png</File>
+    <File>C:/Users/souf_/source/repos/monogame/monogame/Content/level3-button.png</File>
+    <File>C:/Users/souf_/source/repos/monogame/monogame/Content/menu-background-FINAL.jpg</File>
+    <File>C:/Users/souf_/source/repos/monogame/monogame/Content/Pad_04_1.png</File>
+    <File>C:/Users/souf_/source/repos/monogame/monogame/Content/Run.png</File>
+    <File>C:/Users/souf_/source/repos/monogame/monogame/Content/Walk.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>platform1.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
